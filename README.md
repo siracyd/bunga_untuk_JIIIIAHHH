@@ -1,4 +1,5 @@
 # bunga_untuk_JIIIIAHHH
+
 [Uploading scrconst rose = document.getElementById("rose");
 const text = document.getElementById("text");
 const bouquet = document.getElementById("bouquet");
